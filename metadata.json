@@ -1,0 +1,10 @@
+{
+  "name": "AI Trivia Game",
+  "description": "An interactive trivia game featuring an AI host with custom personalities, text-to-speech audio, live voice conversations, and search-grounded real-time quiz generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
